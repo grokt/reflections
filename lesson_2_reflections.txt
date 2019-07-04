@@ -24,8 +24,12 @@ How do the diagrams help you visualize the branch structure?
 	It's a graphical aid. That way you can easily understand in
 	which commit did the branch started.
 
-What is the result of merging two branches together? Why do we represent it in
-the diagram the way we do?
+What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
 
-What are the pros and cons of Git's automatic merging vs. always doing merges
-manually?
+	The code is now the merge of the code in the two merging branches.
+	Because a new commit is created and it stores information from both of its parents.
+
+What are the pros and cons of Git's automatic merging vs. always doing merges manually?
+
+	Pros: you don't have to add/remove each line individually
+	Cons: It can lead to merge conflicts
