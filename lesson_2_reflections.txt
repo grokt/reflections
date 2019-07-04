@@ -8,13 +8,21 @@ What value do you think it offers?
 
 	It's a middle space between the two of them. It saves space as you only need to add the files you are working on.
 
-How can you use the staging area to make sure you have one commit per logical
-change?
+How can you use the staging area to make sure you have one commit per logical change?
 
-What are some situations when branches would be helpful in keeping your history
-organized? How would branches help?
+	Adding to the staging area only the files I've used for that logical change, and the rest of the files that might have been
+	changed, to the staging area but before commiting
+
+What are some situations when branches would be helpful in keeping your history organized? How would branches help?
+
+	When you are trying experimental features, or what to try a change without
+	altering the main program.
+	As the have human names, it's easier to switch from one to another commit.
 
 How do the diagrams help you visualize the branch structure?
+
+	It's a graphical aid. That way you can easily understand in
+	which commit did the branch started.
 
 What is the result of merging two branches together? Why do we represent it in
 the diagram the way we do?
