@@ -13,7 +13,13 @@ Why might you want to always pull changes manually rather than having Git automa
 Describe the differences between forks, clones, and branches.  When would you
 use one instead of another?
 
-    Fill in your answer here
+    Forks are within GitHub environment. Clones can be in you computer,
+    between computers or between GitHub and the local machine.
+    Branches are splits from the design.
+    I would use a branch for testing experimental features on my project.
+    Instead, I would use clone for copying the code from location to another.
+    Finally, I would use fork for cloning a repository in GitHub to
+    my profile
 
 What is the benefit of having a copy of the last known state of the remote
 stored locally?
