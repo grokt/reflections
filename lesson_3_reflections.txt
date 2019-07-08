@@ -4,10 +4,11 @@ local?
     When working with others, or from different computers. Also to avoid lose of data
     in case of a failure in mi local system.
 
-Why might you want to always pull changes manually rather than having Git
-automatically stay up-to-date with your remote repository?
+Why might you want to always pull changes manually rather than having Git automatically stay up-to-date with your remote repository?
 
-    Fill in your answer here
+    To mantain control about what is being commited. As GitHub is public,
+    maybe I don't want some commits to be uploaded as the are not
+    finished work or not functional.
 
 Describe the differences between forks, clones, and branches.  When would you
 use one instead of another?
